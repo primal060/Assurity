@@ -1,0 +1,16 @@
+Read Me
+
+
+Description
+
+This project used the BDD API veirification methodology. Mainly it uses cucumber, restassured, maven and etc. Framework designed combination of Page object model and page factory model to address BDD.
+
+
+Steps to run the project
+
+1) Clone the project in to folder
+2) Open the project with intellij IDEA IDE
+3) Install maven,junit,cucumber plugins
+4) Setup the project structure if its needed.(File->Project Structure) 
+5) Build the project
+6) Right click on TestIshanRunner.java and run it or Right click on Details.feature file and run it
