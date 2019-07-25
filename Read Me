@@ -14,7 +14,7 @@ Steps to run the project
 4) Add as maven project. It might show as non managed pom file at the beginning(Check the event log bottom of the IDE). If it's so then add it as Maven project.
 5) Setup the project structure if its needed.(File->Project Structure->Project->Project SDK - Select 1.8)
 6) Right click on TestIshanRunner.java and run it or Right click on Details.feature file and run it
-7) If flow is not understandable please keep brake point in APICommonSteps.java class and try to get familiar with the flow
+7) If the flow is not understandable please keep brake point in APICommonSteps.java class and try to get familiar with the flow
 
 
 Test Report
