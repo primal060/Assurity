@@ -1,7 +1,7 @@
 Read Me
 
 
-Description
+Description [Java Project]
 
 This project used the BDD API veirification methodology. Mainly it uses cucumber, restassured, maven and etc. Framework designed combination of Page object model and page factory model to address BDD.
 
