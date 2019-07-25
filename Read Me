@@ -3,7 +3,7 @@ Read Me
 
 Description [Java Project]
 
-This project used the BDD API veirification methodology. Mainly it uses cucumber, restassured, maven and etc. Framework designed combination of Page object model and page factory model to address BDD.
+This project used the BDD API veirification methodology. Mainly it uses java, cucumber, restassured, maven and etc. Framework designed combination of Page object model and page factory model to address BDD.
 
 
 Steps to run the project
@@ -11,9 +11,10 @@ Steps to run the project
 1) Clone the project in to folder
 2) Open the project with intellij IDEA IDE
 3) Install maven,junit,cucumber plugins
-4) Setup the project structure if its needed.(File->Project Structure) 
-5) Build the project
+4) Add as maven project. It might show as non managed pom file at the beginning(Check the event log bottom of the IDE). If it's so then add it as Maven project.
+5) Setup the project structure if its needed.(File->Project Structure->Project->Project SDK - Select 1.8)
 6) Right click on TestIshanRunner.java and run it or Right click on Details.feature file and run it
+7) If flow is not understandable please keep brake point in APICommonSteps.java class and try to get familiar with the flow
 
 
 Test Report
