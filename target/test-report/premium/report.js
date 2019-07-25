@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 885687014,
+  "duration": 917111965,
   "status": "passed"
 });
 formatter.scenario({
@@ -123,7 +123,7 @@ formatter.match({
   "location": "APICommonSteps.i_send_the_request_to_the_endpoint_with_below_parameter(String,String,String,String\u003e)"
 });
 formatter.result({
-  "duration": 3492990823,
+  "duration": 3442567129,
   "status": "passed"
 });
 formatter.match({
@@ -136,7 +136,7 @@ formatter.match({
   "location": "APICommonSteps.i_should_receive_response_with_below_details(String,String,String\u003e)"
 });
 formatter.result({
-  "duration": 573263720,
+  "duration": 567765202,
   "status": "passed"
 });
 });

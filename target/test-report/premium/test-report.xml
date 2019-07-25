@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="4.951942">
-<testcase classname="Details API" name="Send API call to Details-API and verify the result" time="4.951942">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="4.927444">
+<testcase classname="Details API" name="Send API call to Details-API and verify the result" time="4.927444">
 <system-out><![CDATA[When I send the "GET" request to the endpoint "DetailsAPI" with below parameter.passed
 Then I should receive response with below details for "DetailsAPI"..........passed
 ]]></system-out>

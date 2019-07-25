@@ -14,3 +14,8 @@ Steps to run the project
 4) Setup the project structure if its needed.(File->Project Structure) 
 5) Build the project
 6) Right click on TestIshanRunner.java and run it or Right click on Details.feature file and run it
+
+
+Test Report
+
+/target/test-report/premium/index.html
